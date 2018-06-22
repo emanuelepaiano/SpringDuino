@@ -37,7 +37,7 @@ public class ArduinoServiceImpl implements ArduinoService{
     
     private final String usbPort="/dev/ttyUSB1";
     
-    private final int speed=ComLinkDevice.BAUDRATE_9600;
+    private final int speed=ComLinkDevice.BAUDRATE_19200;
     
     @PostConstruct
     public void init(){
