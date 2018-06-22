@@ -1,7 +1,7 @@
 # SpringDuino
 Spring MVC raw application with Arduino Service
 
-![alt tag](https://github.com/emanuelepaiano/jirduino/blob/master/SpringDuino/springduino.png?raw=true)
+![alt tag](https://github.com/emanuelepaiano/SpringDuino/blob/master/springduino.png?raw=true)
 
 Using this tool you can interface Arduino (or compatible boards) with Spring framework and REST services.
 This project can be used for:
