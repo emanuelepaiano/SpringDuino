@@ -2,7 +2,7 @@
 Spring MVC raw application with Arduino Service
 
 
-Using this tool you can interface Arduino (or enterprise boards) with Spring framework and REST services.
+Using this tool you can interface Arduino (or compatible boards) with Spring framework and REST services.
 This project can be used for:
 <ul>
 <li>Building small domotics and IoT control panel</li>
