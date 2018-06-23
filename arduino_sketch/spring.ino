@@ -64,7 +64,7 @@ void loop() {
 }
 
 
-/* Lista comandi */
+/* Comands List */
 void cmdDispatch(int opcode, long param1, long param2)
 {
  String output="";
